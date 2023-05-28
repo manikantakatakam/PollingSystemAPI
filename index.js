@@ -16,7 +16,7 @@ const app = express();
 
 
 // port on which server will listen
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 8001;
 
 
 // middlewares
